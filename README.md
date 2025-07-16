@@ -22,4 +22,9 @@ kids aged 8 to 18. The Coding club offers activities for kids to learn how to co
     [website name](https://username2.github.io/projectname/)
 -   Thanks to my mentor Rudy Matheson for his patience and support as I built out this project.
 
-## Footer
+## Markdown practice
+
+| Building      | a table       | with markdown |
+| ------------- | ------------- | ------------- |
+| _Italic text_ | **bold text** | inline code   |
+| 42            | 400           | 97            |
